@@ -1,4 +1,4 @@
-# tweetstorm
+# tweetstorm [![Build Status](https://travis-ci.org/ryanseys/tweetstorm.svg)](https://travis-ci.org/ryanseys/tweetstorm)
 
 > Convert a string into a properly formatted tweet storm and convert a tweet storm back to the original tweet.
 
