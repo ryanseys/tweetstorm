@@ -1,4 +1,4 @@
-# TweetStorm
+# tweetstorm
 
 > Convert a string into a properly formatted tweet storm and convert a tweet storm back to the original tweet.
 
