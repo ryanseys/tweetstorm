@@ -1,0 +1,26 @@
+{
+  "name": "tweetstorm",
+  "version": "0.0.1",
+  "description": "Convert a string into a properly formatted tweet storm. Convert an array of tweets back to the original tweet.",
+  "main": "tweetstorm.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Ryan Seys <ryan@ryanseys.com>",
+  "license": "MIT",
+  "keywords": [
+    "twitter",
+    "tweet",
+    "storm",
+    "tweetstorm",
+    "split",
+    "social"
+  ],
+  "dependencies": {
+    "twitter-text": "^1.12.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "repeat-string": "^1.5.2"
+  }
+}
